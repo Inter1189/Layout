@@ -75,8 +75,6 @@ body {
 
 /* ---------------------for all bloks and lements------------------------- */
 
-
-
 .container {
   max-width: 1640px;
   padding: 0px;
@@ -213,7 +211,7 @@ body {
 
 .hero__container {
   min-height: 725px;
-  background-image: url("/img/layout_hero_img.webp");
+  background-image: url("../img/layout_hero_img.webp");
   background-position: 830px -4px;
   background-repeat: no-repeat;
   background-size: 840px, 720px;
@@ -275,19 +273,19 @@ body {
 }
 
 .services-card_1 {
-  background-image: url("/img/layout_services_svg_1.svg");
+  background-image: url("../img/layout_services_svg_1.svg");
 }
 
 .services-card_2 {
-  background-image: url("/img/layout_services_svg_2.svg");
+  background-image: url("../img/layout_services_svg_2.svg");
 }
 
 .services-card_3 {
-  background-image: url("/img/layout_services_svg_3.svg");
+  background-image: url("../img/layout_services_svg_3.svg");
 }
 
 .services-card_4 {
-  background-image: url("/img/layout_services_svg_4.svg");
+  background-image: url("../img/layout_services_svg_4.svg");
 }
 
 .services-card__descr {
@@ -346,15 +344,15 @@ body {
 }
 
 .portfolio-card__image_1 {
-  background-image: url("/img/layout_portfolio_img_1.webp");
+  background-image: url("../img/layout_portfolio_img_1.webp");
 }
 
 .portfolio-card__image_2 {
-  background-image: url("/img/layout_portfolio_img_2.webp");
+  background-image: url("../img/layout_portfolio_img_2.webp");
 }
 
 .portfolio-card__image_3 {
-  background-image: url("/img/layout_portfolio_img_3.webp");
+  background-image: url("../img/layout_portfolio_img_3.webp");
 }
 
 .portfolio-card__descr {
